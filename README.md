@@ -11,13 +11,6 @@ This project demonstrates four basic image transformation effects: **Translation
 - On-screen FPS display
 - Status indicators for active transformations
 
-## 🎥 Demo
-
-| Original | Processed |
-|----------|-----------|
-| ![demo](https://via.placeholder.com/400x250?text=Original) | ![demo](https://via.placeholder.com/400x250?text=Processed) |
-
-> (Insert a real demo GIF or screenshot here if available)
 
 ## 🛠️ Requirements
 
